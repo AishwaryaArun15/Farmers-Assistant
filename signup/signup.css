@@ -1,0 +1,104 @@
+body{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-image: url(pink.jpg);
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a{
+ text-decoration:none ;
+ color: dimgray;
+ color: white;
+
+
+}
+a:hover{
+    color: red;
+}
+#mainhead
+{margin: auto;
+    background-image: url(headbg1.jpg);
+    border-top-left-radius: 15px;
+    border-top-right-radius:15px ;
+padding: 20px;
+    border: 100% rosybrown;
+    font-size:110%;
+    font-weight: bolder;
+    color: white;
+    
+    letter-spacing: 0.5em;
+}
+.get
+{
+    padding-top: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(1, 1, 24);
+    font-size: 25px;
+padding:15px;
+border: none;
+
+
+
+}
+.get input{
+padding: 7px;
+width:50%;
+
+}
+.get label{
+    display: block;
+    text-align: left;
+    padding-left: 23%;
+}
+
+.cont{
+    
+    background-image: url(bgg.jpg);
+    background-size: cover;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+}
+
+
+
+.button{
+    padding-top:1%;
+    padding-left:25% ;
+    width: 45%;
+    color: darkblue;
+    
+}
+#pass{
+    
+    height: 35px;
+    background-color:rgb(250, 207, 128);
+    color:rgb(1, 1, 24);
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing:0.07em;
+}
+#pass:hover{
+    background-color:rgb(6, 37, 12);
+    color:whitesmoke;
+}
+input{
+    border:none;
+    box-shadow: none;
+}
+
+
+
+
+
+
+input:hover
+{
+    position: relative;
+    border: none;
+    background-color:lightsteelblue;
+    
+    box-shadow: none;
+}
